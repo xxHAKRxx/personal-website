@@ -2,7 +2,7 @@
 
 ## Author
 
-
+Evan Westcomb
 
 ## Description
 
@@ -106,8 +106,8 @@ This means having lines similar to the following in your base template. For the 
 
 ## Outside Resources Used
 
-
+None
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
-
+None
