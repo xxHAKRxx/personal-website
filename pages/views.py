@@ -1,3 +1,9 @@
+"""
+Name: Evan Westcomb
+Class: CIS 218
+Date: 1/28/2026
+"""
+
 from django.views.generic import TemplateView
 
 class HomePageView(TemplateView):
